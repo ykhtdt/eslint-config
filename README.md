@@ -1,1 +1,3 @@
-# eslint-config
+### Install
+
+    npm install @ykhtdt/eslint-config
