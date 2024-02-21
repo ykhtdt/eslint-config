@@ -1,6 +1,6 @@
 {
   "name": "@ykhtdt/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESLint Configuration for Next.js",
   "main": "index.js",
   "author": "Jonggwang Park <jgpark7281@gmail.com>",
